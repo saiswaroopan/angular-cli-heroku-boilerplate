@@ -13,6 +13,7 @@
   },
   "private": true,
   "dependencies": {
+    "@angular/animations": "^6.0.5",
     "@angular/cdk": "5.2.4",
     "@angular/cli": "6.0.3",
     "@angular/common": "6.0.3",
@@ -28,7 +29,7 @@
     "core-js": "^2.5.3",
     "express": "^4.16.2",
     "rxjs": "^6.2.0",
-    "rxjs-compat": "^6.2.0",
+    "rxjs-compat": "^6.2.1",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
