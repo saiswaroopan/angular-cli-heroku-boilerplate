@@ -44,7 +44,7 @@ const appRoutes: Routes = [
     MatCardModule,
     MatInputModule,
     MatListModule,
-    MatToolbarModule
+    MatToolbarModule,
     FormsModule,
     RouterModule.forRoot(appRoutes)
     
